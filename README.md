@@ -36,14 +36,6 @@ The final output is a structured, multilingual Excel dataset (`all_reviews.xlsx`
 
 ---
 
-## 📂 File Structure
-
-App-Review-Scraper/
-├── App_Review_Scraper.ipynb    # Main notebook (Google + Apple scraping)
-├── all_reviews.xlsx            # Output (merged, cleaned dataset)
-└── README.md                   # This file
----
-
 ## 🚀 How to Run
 
 > ✅ Recommended: [Google Colab](https://colab.research.google.com/)
