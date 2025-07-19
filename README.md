@@ -40,12 +40,12 @@ The final output is a structured, multilingual Excel dataset (`all_reviews.xlsx`
 
 > ✅ Recommended: [Google Colab](https://colab.research.google.com/)
 
-##1. Clone or open the repo in Colab:
+1. Clone or open the repo in Colab:
 ```bash
 !git clone https://github.com/AndrewLee-Korea/App-Review-Scraper.git  
 ```
-##2.	Install required packages (if local):
+2.	Install required packages (if local):
 pip install google-play-scraper pandas
 
-##3.	Run the notebook App_Review_Scraper.ipynb
-##4.	Output: all_reviews.xlsx will be created and downloaded automatically.
+3.	Run the notebook App_Review_Scraper.ipynb
+4.	Output: all_reviews.xlsx will be created and downloaded automatically.
